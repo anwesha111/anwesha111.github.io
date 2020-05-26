@@ -1,0 +1,30 @@
+body{
+			padding-top:70px;
+			background-color:#5f6a73;
+		}
+h1{
+			font-family: 'Ultra', serif;
+		}
+		p{
+			font-family: 'Ultra', serif;
+			font-family: 'Pacifico', cursive;
+			font-family: 'Kalam', cursive;
+		}
+		a{
+			font-family: 'Ultra', serif;
+			font-family: 'Pacifico', cursive;
+			font-family: 'Kalam', cursive;
+			font-family: 'Anonymous Pro', monospace;
+		}
+
+		.jumbotron{
+			color:#8132a8;
+			background: #ccb8be;
+		}
+ 	.navbar-dark .navbar-nav .nav-link{
+ 		color:white;
+ 	}
+ 	.row img:hover{
+ 		filter:grayscale(100%);
+ 		transform: scale(1.1);
+ 	}
